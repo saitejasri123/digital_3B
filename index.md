@@ -2,9 +2,9 @@ Johnny Coder
 ============
 
 -------------------     ---------------------------- 
-email address                   tejasripanemit@gmail.com
-register id:                    y18it074
-phone no:                       6300866195
+* email address;                   tejasripanemit@gmail.com&*
+* register id;                   y18it074
+* phone no;                       6300866195
 -------------------     ----------------------------
 
 Education
