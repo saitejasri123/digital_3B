@@ -1,23 +1,23 @@
 Johnny Coder
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+-------------------     ---------------------------- 
+email address                   tejasripanemit@gmail.com
+register id:                    y18it074
+phone no:                       6300866195
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2016-2018 (expected)
+:   narayana junior college; Awesome college(vijayawada)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
+2018-2022
+:   **cse, Computer Science and Electrical Engineering**; rvr&jc college of engineering
     HomeTown (HomeTown)
 
     *Minor: Awesomeology*
@@ -40,8 +40,15 @@ links:
 
 Also with a short description.
 
-Technical Experience
+Technical skills
 --------------------
+**programing languages**
+*c
+*python
+*iot
+*html
+*git and github
+**other skills**
 
 My Cool Side Project
 :   For items which don't have a clear time ordering, a definition
@@ -84,7 +91,7 @@ Extra Section, Call it Whatever You Want
 
 * Human Languages:
 
-     * English (native speaker)
+     * telugu (native speaker)
      * ???
      * This is what a nested list looks like.
 
