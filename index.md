@@ -92,8 +92,7 @@ Extra Section, Call it Whatever You Want
 * Human Languages:
 
      * telugu (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * english
 
 * Random tidbit
 
