@@ -18,7 +18,7 @@ Education
 
 2018-2022
 :   **cse, Computer Science and Electrical Engineering**; rvr&jc college of engineering
-    HomeTown (HomeTown)
+    chowdavaram (guntur)
 
     *Minor: Awesomeology*
 
